@@ -1,4 +1,4 @@
-<img title="notion-rendering" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="notion-rendering" data-align="center">
+<img title="notion-rendering" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="notion-rendering" width="400" data-align="center">
 
 # Notion Rendering
 
