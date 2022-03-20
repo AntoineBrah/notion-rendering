@@ -1,10 +1,14 @@
 {
   "name": "notion-rendering",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Built an html structure from the result of the request made on notion API.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoineBrah/notion-rendering"
   },
   "keywords": ["notion", "html", "ui", "ux", "dom", "css", "renderer", "rendering", "render"],
   "author": "antoine brahimi",
