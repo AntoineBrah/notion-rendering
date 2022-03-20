@@ -1,4 +1,4 @@
-<img title="MarineGEO logo" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="MarineGEO circle logo" width="739">
+<img title="MarineGEO logo" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="MarineGEO circle logo" width="739" data-align="center">
 
 # Notion Rendering
 
