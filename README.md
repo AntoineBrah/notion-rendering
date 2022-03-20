@@ -1,4 +1,4 @@
-<img title="MarineGEO logo" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="MarineGEO circle logo" width="739" data-align="center">
+<img title="notion-rendering" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="notion-rendering" data-align="center">
 
 # Notion Rendering
 
@@ -6,7 +6,7 @@
 
 
 
-![MarineGEO circle logo](https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering2.png?raw=true "MarineGEO logo")
+![notion-rendering](https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering2.png?raw=true "notion-rendering")
 
 On the left the notion page, on the right your website.
 
