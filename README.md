@@ -1,4 +1,4 @@
-<img title="MarineGEO logo" src="\\wsl.localhost\Ubuntu\home\antoine\github\Notion-Rendering\dist\media\notion_rendering.png" alt="MarineGEO circle logo" width="739">
+<img title="MarineGEO logo" src="https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering.png?raw=true" alt="MarineGEO circle logo" width="739">
 
 # Notion Rendering
 
@@ -6,7 +6,7 @@
 
 
 
-![MarineGEO circle logo](\\wsl.localhost\Ubuntu\home\antoine\github\Notion-Rendering\dist\media\notion_rendering2.png "MarineGEO logo")
+![MarineGEO circle logo](https://github.com/AntoineBrah/notion-rendering/blob/main/media/notion_rendering2.png?raw=true "MarineGEO logo")
 
 On the left the notion page, on the right your website.
 
